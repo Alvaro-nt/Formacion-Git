@@ -10,7 +10,7 @@ _This proyect only contains MarkDown files without confidential info._
 
 If you want to follow the training course, just do a git clone in your local machine.
 
-```git clone ```
+```git clone https://github.com/AlvaroMLorente/Formacion-Git.git```
 
 ## Made with 🛠️
 
